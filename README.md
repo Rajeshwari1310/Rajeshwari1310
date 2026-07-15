@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Rajeshwari Ghuge 👋
 
-<!--
-**Rajeshwari1310/Rajeshwari1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma in Computer Engineering 
 
-Here are some ideas to get you started:
+💻 React Native Developer
+⚙️ Laravel Developer
+🔥 Firebase & MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am passionate about building mobile and web applications that solve real-world problems. I enjoy working with React Native, Laravel, Firebase, and modern web technologies.
+
+## Skills
+
+- React Native
+- Laravel
+- PHP
+- JavaScript
+- MySQL
+- Firebase
+- Git & GitHub
+- REST APIs
+
+## Projects
+
+### 🌸 Sakhi – Women's Healthcare App
+- Period Tracking
+- Health Education
+- Doctor Consultation
+- E-commerce Integration
+
+### 📚 StudyGo
+- Student Community Platform
+- Group Chat System
+- Notifications
+
+## Achievements
+
+🏆 MEASTRO 2025-26 – 2nd Prize
+
+🏅 DIPEX 2026 Participant
+
+🚀 RACKATHON 2026 Participant
+
+## Connect With Me
+
+- LinkedIn:https://www.linkedin.com/in/rajeshwari-ghuge-b59789358
+- Email: rajeshwarighuge1979@gmail.com
